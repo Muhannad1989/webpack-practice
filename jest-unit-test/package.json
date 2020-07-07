@@ -1,0 +1,19 @@
+{
+  "name": "try-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.4",
+    "axios": "^0.19.2"
+  }
+}
