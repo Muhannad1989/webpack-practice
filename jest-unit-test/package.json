@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "testwatch": "jest --watchAll"
+    "testwatch": "jest --watchAll",
+    "test_auto": "jest --watch",
+    "build": "webpack src/js/app.js dist/bundle.js",
+    "build-minify": "webpack src/js/app.js dist/bundle.js -p"
   },
   "keywords": [],
   "author": "",
