@@ -205,7 +205,7 @@ eval("const text = \"this is a domy rext from another file\";\r\nconst arr = [\r
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("__webpack_require__(/*! C:\\Users\\muhan\\Desktop\\try-projects\\jest-unit-test\\src\\js\\app.js */\"./src/js/app.js\");\nmodule.exports = __webpack_require__(/*! C:\\Users\\muhan\\Desktop\\try-projects\\jest-unit-test\\dist\\main.js */\"./dist/main.js\");\n\n\n//# sourceURL=webpack:///multi_./src/js/app.js_./dist/main.js?");
+eval("__webpack_require__(/*! C:\\Users\\muhan\\Desktop\\try-projects\\webpack-practice\\src\\js\\app.js */\"./src/js/app.js\");\nmodule.exports = __webpack_require__(/*! C:\\Users\\muhan\\Desktop\\try-projects\\webpack-practice\\dist\\main.js */\"./dist/main.js\");\n\n\n//# sourceURL=webpack:///multi_./src/js/app.js_./dist/main.js?");
 
 /***/ })
 
